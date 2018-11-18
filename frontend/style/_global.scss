@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Gabriela', serif;
+}
+
+.wrapper {
+  min-height: 100vh
+}
+
+.container {
+  width: 1152px;
+  margin: auto;
+  padding: 0 $gutter;
+}
